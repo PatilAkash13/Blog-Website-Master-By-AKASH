@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);;
+  color: rgb(10, 6, 6);
+  padding: 20px;
+}
+
+
+.hrclass {
+  background-color: rgba(228, 84, 173, 0.657);
+
+}
